@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [E-commerce fullstack website](https://github.com/cyrillekey/e-commerce)
 
-- 🌱 I’m currently learning **Springboot,ReactJs,Redis**
+- 🌱 I’m currently learning **Flutter,ReactJs,Redis**
 
 - 💬 Ask me about **Java,Php**
 
