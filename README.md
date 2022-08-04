@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [Imdb for video games mobile app](https://github.com/cyrillekey/gamereview)
 
-- 🌱 I’m currently learning **Flutter,ReactJs,Redis**
+- 🌱 I’m currently learning **gRpc,Redis,golang**
 
-- 💬 Ask me about **Java,Php**
+- 💬 Ask me about **Java,Php,Flutter**
 
 - 📫 How to reach me **cyrilleotieno7@gmail.com**
 
