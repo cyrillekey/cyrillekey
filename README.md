@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyrillekey" alt="cyrillekey" /></a> </p>
 
-- 🔭 I’m currently working on [Crossplatform Rentals App](https://github.com/cyrillekey/chekikeja)
+- 🔭 I’m currently working on [Cross platform Real Estate Rentals App](https://github.com/cyrillekey/Rentals-Flutter)
 
 - 🌱 I’m currently learning **gRpc,Redis,golang**
 
